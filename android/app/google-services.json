@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43484764859",
+    "project_id": "brindavanapp-7d7c6",
+    "storage_bucket": "brindavanapp-7d7c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43484764859:android:a7b44188577fbe242a679e",
+        "android_client_info": {
+          "package_name": "com.example.brindavan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43484764859-v6n2lie5cq9nphtvb0fok5pebtvqmj82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM0uFWx4K9Mt7fZLBmCVITefPRSLiafeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43484764859-v6n2lie5cq9nphtvb0fok5pebtvqmj82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
